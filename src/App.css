@@ -1,0 +1,19 @@
+div.upper {
+  margin-left: 100px;
+  padding: 100px;
+}
+
+.select {
+  padding-bottom: 10px;
+  color: dimgray;
+}
+
+.form {
+  font-size: 17px;
+  background-color: azure;
+}
+
+#input {
+  overflow-wrap: break-word;
+  word-break: break-all;
+}
